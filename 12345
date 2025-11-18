@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>我的静态网站</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="site-header">
+    <h1>欢迎来到我的静态网站</h1>
+    <p class="tagline">这是一个基于纯 HTML/CSS 的示例站点</p>
+  </header>
+
+  <main class="content">
+    <section>
+      <h2>关于</h2>
+      <p>这里可以写关于你的内容、项目介绍、联系方式等。</p>
+    </section>
+
+    <section>
+      <h2>联系</h2>
+      <p>邮箱: yourname@example.com</p>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <p>© 2025 你的名字</p>
+  </footer>
+</body>
+</html>
